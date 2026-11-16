@@ -1,5 +1,10 @@
 # Froot by the Fut
 
+[Download Windows x64 VST3 ZIP](https://github.com/grommie122/Froot-by-the-Fut/releases/download/rolling-windows/Froot-by-the-Fut-Windows-x64.zip)
+
+GitHub Actions refreshes this ZIP after successful builds from `main`.
+
+
 Froot by the Fut is a Windows x64 tape-style VST3 echo. Set Time from 45 to 1000 ms, Repeats for feedback, Wow & Flutter for pitch movement, and Mix for the wet/dry blend. The repeat path uses saturation and low-pass filtering.
 
 ## Build
